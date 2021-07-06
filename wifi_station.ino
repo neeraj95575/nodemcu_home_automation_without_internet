@@ -1,7 +1,3 @@
-/*
- created on monday june 5
- author = neeraj(youtube channel = Experimentalist)
-*/
 #include <ESP8266WiFi.h>
 
 char ssid[] = "ESPsoftAP_01";       // SSID of your AP
